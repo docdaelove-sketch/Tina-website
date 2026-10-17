@@ -226,7 +226,7 @@ export const translations = {
   zh: {
     academyName: "Tina 国际课业辅导",
     tagline: "1对1定制精讲 数学与英语专属私教",
-    heroTitle: "1:1로 완성하는 수학과 영어의 압도적 성취",
+    heroTitle: "1对1定制精讲，成就数学与英语卓越高分",
     heroSubtitle: "完美衔接马来西亚国际学校课程体系。\n资深名师 Tina 1对1精准把脉，全方位激发学生学术潜能。",
     bookTestBtn: "预约 1对1 诊断测评与缴费",
     viewScheduleBtn: "查看 Tina 老师课表",
